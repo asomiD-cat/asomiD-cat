@@ -16,7 +16,9 @@ C++, programming logic, object-oriented concepts, structural HTML/CSS design, or
 ## 👥 Socials:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asomiD-cat)
 
-<p align="left">
+
+--- 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=asomiD-cat&style=flat&color=blue" alt="Profile Views" />
 </p>
 
