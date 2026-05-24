@@ -16,18 +16,6 @@ C++, programming logic, object-oriented concepts, structural HTML/CSS design, or
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asomiD-cat&show_icons=true&theme=tokyonight&count_private=true" alt="aso's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asomiD-cat&theme=tokyonight" alt="aso's GitHub Streak" />
-</p>
-
----
-
 ## 👥 Socials:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asomiD-cat)
 
