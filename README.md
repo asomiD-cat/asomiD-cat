@@ -22,5 +22,3 @@ C++, programming logic, object-oriented concepts, structural HTML/CSS design, or
 <p align="center">
 "You are what you eat"
 </p>
-
-
